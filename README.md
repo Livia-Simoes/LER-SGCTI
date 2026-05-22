@@ -1,6 +1,10 @@
 ## Documento de Especificação de Requisitos e Planejamento do Jogo: EcoCity
-Nome do Projeto:
-EcoCity: Separação Inteligente do Lixo
+### Nome do Projeto:
+#### EcoCity: Separação Inteligente do Lixo
+<img width="1210" height="894" alt="Captura de tela 2026-05-22 161915" src="https://github.com/user-attachments/assets/e8f02542-8a22-42c8-b0af-49b96bdc57a1" />
+<img width="1196" height="890" alt="Captura de tela 2026-05-22 161923" src="https://github.com/user-attachments/assets/746b15c3-6f35-4a13-8db4-c8fbc87b53d0" />
+<img width="1209" height="901" alt="Captura de tela 2026-05-22 161945" src="https://github.com/user-attachments/assets/fa1c7b74-6db5-46e9-9328-9548a208937c" />
+<img width="1214" height="913" alt="Captura de tela 2026-05-22 162004" src="https://github.com/user-attachments/assets/88161cb1-7719-4c10-915e-3afa923826ed" />
 
 Tipo de Documento: Especificação de Requisitos e Planejamento de Projeto (V2)
 Line Spacing: 1.15
