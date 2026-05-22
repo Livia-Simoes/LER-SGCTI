@@ -1,4 +1,5 @@
 ## Documento de Especificação de Requisitos e Planejamento do Jogo: EcoCity
+### Integrantes: Livia K, Lucas, Henrique e Pedro
 ### Nome do Projeto:
 #### EcoCity: Separação Inteligente do Lixo
 <img width="1210" height="894" alt="Captura de tela 2026-05-22 161915" src="https://github.com/user-attachments/assets/e8f02542-8a22-42c8-b0af-49b96bdc57a1" />
